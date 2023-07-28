@@ -22,9 +22,9 @@
   <a href="https://www.linkedin.com/in/leonny-patroc%C3%ADnio-santos-42944b26b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonnysantos/leonnysantos/output/github-contribution-grid-snake-dark.svg">
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonnysantos/leonnysantos/output/github-contribution-grid-snake.svg">
- <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leonnysantos/leonnysantos/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gielth/Gielth/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gielth/Gielth/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gielth/Gielth/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
